@@ -1,0 +1,18 @@
+# Файлы окружения
+.env
+.env.local
+
+# Node modules
+node_modules/
+
+# Логи
+*.log
+npm-debug.log*
+
+# ОС файлы
+.DS_Store
+Thumbs.db
+
+# Временные файлы
+tmp/
+temp/
